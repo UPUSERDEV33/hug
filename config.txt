@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
-game=play
+owner=588088471848222770
+prefix=F
+game=Fhelp
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NjEyNTI5NTI2OTc0NTc4NzIx.XWxQvQ.03NnXGlIdwYt5sXUieAJkG32kpc
